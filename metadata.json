@@ -1,0 +1,5 @@
+{
+  "name": "Humanize IT",
+  "description": "A sophisticated text humanizer that transforms AI-generated content into natural, engaging, and human-like prose using advanced Gemini models.",
+  "requestFramePermissions": []
+}
