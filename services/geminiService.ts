@@ -1,6 +1,6 @@
 
 import { GoogleGenAI } from "@google/genai";
-import { ToneType, Settings } from "../types";
+import { ToneType, Settings } from "../types.ts";
 
 const API_KEY = process.env.API_KEY || "";
 

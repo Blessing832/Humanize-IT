@@ -12,8 +12,8 @@ import {
   ChevronDown,
   Info
 } from 'lucide-react';
-import { ToneType, Settings, HumanizeResult } from './types';
-import { humanizeText } from './services/geminiService';
+import { ToneType, Settings, HumanizeResult } from './types.ts';
+import { humanizeText } from './services/geminiService.ts';
 
 const App: React.FC = () => {
   const [inputText, setInputText] = useState('');
